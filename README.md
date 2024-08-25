@@ -24,7 +24,7 @@
 
 * Sync process is significantly more efficient, and will be faster. While sync can still take a little while the very first time in a mega guild, it is not only shorter than previously, but subsequent smaller syncs will be far quicker.
 
-![100% complete](https://i.imgur.com/ZpXw8gg.png)
+![100% complete](https://i.imgur.com/rMNAX5r.png)
 
 * Alt groups should now accurately report at the end of the sync how many "alts" habe been updated. Before, if you had an alt group with 10 players, and you made a change to that alt group, it would count as "1" alt being changed. In reality, every alt in that group was affected. This will now count properly oin the end of sync tally report.
 
