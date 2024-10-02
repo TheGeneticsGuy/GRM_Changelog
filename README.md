@@ -4,11 +4,11 @@
 
 ***BUG FIXES***
 
-* Fixed an issue where the "Special Rule" to sync all alts to a specific rank of a given main was not working. They sync all alts to the same rank of the main was not, but a recent udpdate I did broke the previous implementation and I didn't realize it until it was reported on Discord. It will now properly work again!
+* Fixed an issue where the "Special Rule" to sync all alts to a specific rank of a given main was not working. They sync all alts to the same rank of the main was not broken, but a recent udpdate I broke the previous implementation that was working, appearently, and I didn't realize it until it was reported on Discord. It will now properly work again!
 
 * Added the missing translation string for the Russian Client as I had apparently deleted it on accident. You will no longer be spammed of missing key.
 
-* Fixed an issue where the "level cap" was only showing the level cap you had payed for for an expansion, which was causing a problem. For example, if you had not yet purchased TWW expansion, GRM was showing your level cap as the DF cap of 70, rather than the actual server level cap of 80. This has now been fixed.
+* Fixed an issue where the "level cap" was only showing the level cap you had payed for an expansion, which was causing a problem. For example, if you had not yet purchased TWW expansion, GRM was showing your level cap as the DF cap of 70, rather than the actual server level cap of 80. This has now been fixed.
 
 * When exporting names - the realm name will no longer be appended to the player name. It seemed a bit redundant to have the name-realm, and then an extra column for the realm. Now, the realm name will be a separate column. Of note, the ordering of all these player details is not ideal how I want it at the moment, and I'd like to make it configurable, but that is future plans.
 
