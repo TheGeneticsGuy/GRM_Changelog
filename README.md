@@ -2,7 +2,7 @@
 
 ***BUG FIXES***
 
-* Fixed a bug that could prevent some people from patching the game properly in the recent update.
+* Fixed a bug that could prevent some people from patching GRM properly in the recent update.
 
 * Export log should now properly export ALL the mains or alts you are requestig, not just a small portion of them. In addition, the export should now properly indicate their main/alt status at time of leaving the guild... If at the time they left the guild not as a main themselves, or part of a group as main, they are not really considered an alt as status is unknown, so will be blank on the main/alt designation.
 
