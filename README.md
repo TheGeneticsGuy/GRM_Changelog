@@ -1,3 +1,9 @@
+## **VERSION 1.9928 - June 5th, 2025**
+
+***BUG FIXES***
+
+* Fixed an error that could prevent GRM from loading entirely due to the lastOnline variable being missing. This is now resolved.
+
 ## **VERSION 1.9927 - June 4th, 2025**
 
 ***BUG FIXES***
@@ -5,7 +11,6 @@
 * Fixed a number of Lua errors that were causing some scanning to fail, macro tool to load, or even the GRM custom roster window to load. They all should now properly updated.
 
 * Fixed a slight bug with the demotions macro tool where you could add a custom message to a player note destination. It now variably informs you that the max length of your note is 31 in officer/public, or 150 in custom, due to the size availability of the note. It was stating they all were limited to 31 characters previously (the Blizz default note size that does not apply to the custom GRM note).
-
 
 ## **VERSION 1.9926 - June 3rd, 2025**
 
